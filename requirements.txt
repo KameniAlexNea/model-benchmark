@@ -1,0 +1,6 @@
+transformers
+torch
+psutil
+pynvml
+accelerate
+fvcore
